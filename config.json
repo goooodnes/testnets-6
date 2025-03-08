@@ -1,6 +1,6 @@
 {
   "address": "",
-  "description": "Qwen 2.5 Coder 0.5B",
+  "description": "This GaiaNet node config with a Qwen 1.5 0.5B model.",
   "domain": "gaia.domains",
   "llamaedge_port": "8080",
   "chat": "https://huggingface.co/gaianet/Qwen2.5-Coder-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-0.5B-Instruct-Q5_K_M.gguf",
